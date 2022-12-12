@@ -1,0 +1,6 @@
+displayName = XLibrary
+author = XNTEABDSC
+version = 0.1.0.0
+hideResources = true
+hideCode = true
+includePDB=true
